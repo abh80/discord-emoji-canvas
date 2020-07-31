@@ -1,0 +1,27 @@
+{
+  "name": "discord-emoji-canvas",
+  "version": "1.0.0",
+  "description": "A simple to use version of canvas specially meant for discord with custom emojis support!",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abh80/discord-emoji-canvas"
+  },
+  "author": "Abh80",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "twemoji-parser": "^13.0.0"
+  },
+  "keywords": [
+    "discord-canvas",
+    "emoji-canvas",
+    "discord",
+    "custom-emoji-canvas",
+    "twemoji-canvas"
+  ]
+}
